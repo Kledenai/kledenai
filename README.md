@@ -1,6 +1,9 @@
 ### Hi there 👋  I am Kledenai 🌱
 
-🔭 I’m currently working on khaneland
+🔭 I’m currently working on khaneland.
+💬 Ask me about: Docker, Kubernetes, Javascript, Php and others.
+📫 How to reach me: desenvolvimento@khaneland.com.br
+
 
 <!--
 **Kledenai/kledenai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
