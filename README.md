@@ -1,6 +1,6 @@
-### Hi there 👋  I am Kledenai
+### Hi there 👋  I am Kledenai 🌱
 
-- 🔭 I’m currently working on khaneland
+🔭 I’m currently working on khaneland
 
 <!--
 **Kledenai/kledenai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
