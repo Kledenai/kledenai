@@ -29,3 +29,7 @@ This is my company, I provide several services, maybe I can take something off t
 - Apprentice Philosopher
 - Origami
 - Study area different from the one I work
+
+<br/>
+
+![readme-stats](https://github-readme-stats.vercel.app/api?username=kledenai&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
