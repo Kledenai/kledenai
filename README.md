@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-
-in an eternal existential conflict, seeking information to be able to create
+In an eternal existential conflict, seeking information to be able to create
 
 ### Khaneland
 
