@@ -1,10 +1,5 @@
 ### Hi there 👋  I am Kledenai 🌱
 
-🔭 I’m currently working on khaneland.
-💬 Ask me about: Docker, Kubernetes, Javascript, Php and others.
-📫 How to reach me: desenvolvimento@khaneland.com.br
-
-
 <!--
 **Kledenai/kledenai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me
+
+
+in an eternal existential conflict, seeking information to be able to create
+
+### Khaneland
+
+This is my company, I provide several services, maybe I can take something off the paper for you
+
+### What do I do for fun?
+
+- I am musician
+- Apprentice Philosopher
+- Origami
+- Study area different from the one I work
