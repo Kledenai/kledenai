@@ -32,4 +32,8 @@ This is my company, I provide several services, maybe I can take something off t
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kledenai&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![Kledenai Github Stats](https://github-readme-stats.vercel.app/api?username=kledenai&show_icons=true&hide_border=true&theme=dark)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kledenai&hide_border=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kledenai&layout=compact&theme=dark)
