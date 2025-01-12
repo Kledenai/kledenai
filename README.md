@@ -21,9 +21,6 @@ Khaneland is my company, where I specialize in bringing projects to life. Whethe
 ### Let's Connect! 🤝
 
 <div>
-  <a href="https://x.com/kledenai" target="_blank">
-    <img src="https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="kledenai-x">
-  </a>
   <a href="https://www.linkedin.com/in/bruno-rocha" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kledenai-linkedin">
   </a>
