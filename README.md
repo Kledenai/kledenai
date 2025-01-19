@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=kledenai&color=blue)
+
 ### Hi there! 👋 I'm Kledenai 🌱
 
 ### About Me
