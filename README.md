@@ -8,7 +8,7 @@ I’m a lifelong learner, always seeking knowledge to turn ideas into reality. C
 
 ### Tech Stack 🛠️
 
-- **Languages**: JavaScript, TypeScript, Node.js
+- **Languages**: JavaScript, TypeScript, Solidity
 - **Frameworks & Libraries**: React, Next.js, NestJS, Express, AdonisJS
 - **Databases**: MySQL, PostgreSQL, MongoDB, CosmosDB, NoSQL
 - **DevOps & Infrastructure**: Kubernetes, Terraform, Docker, RabbitMQ, Elasticsearch, Kafka
