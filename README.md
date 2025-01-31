@@ -9,8 +9,8 @@ I’m a lifelong learner, always seeking knowledge to turn ideas into reality. C
 ### Tech Stack 🛠️
 
 - **Languages**: JavaScript, TypeScript, Solidity
-- **Frameworks & Libraries**: React, Next.js, NestJS, Express, AdonisJS
-- **Databases**: MySQL, PostgreSQL, MongoDB, CosmosDB, NoSQL
+- **Frameworks & Libraries**: React, Next.js, NestJS, Express, AdonisJS, Truffle Suite, Web3
+- **Databases**: MySQL, PostgreSQL, MongoDB, CosmosDB, Redis
 - **DevOps & Infrastructure**: Kubernetes, Terraform, Docker, RabbitMQ, Elasticsearch, Kafka
 - **Cloud Providers**: AWS, Azure (including CosmosDB, Static Website, MSAL, and more)
 - **Security** & Compliance: SOC 2, ISO 27001, Okta, LDAP
