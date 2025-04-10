@@ -4,21 +4,26 @@
 
 ### About Me
 
-I’m a lifelong learner, always seeking knowledge to turn ideas into reality. Creativity and innovation drive everything I do. With years of experience as a software engineer, I specialize in building scalable, high-performance systems while solving complex challenges through innovative, impactful results.
+I’m passionate about transforming innovative ideas into reality through technology and creativity. As an experienced software engineer and technology consultant, I build scalable, secure, and high-performance systems designed to tackle complex challenges. My mission is to deliver impactful solutions that drive meaningful change.
+
+### What I Do Best 🚀
+
+- **Software Development**: Expertise in crafting efficient and scalable applications using modern web technologies.
+- **Blockchain & Web3**: Skilled in developing decentralized solutions, smart contracts, and blockchain integrations.
+- **Cloud & Infrastructure**: Adept at deploying robust infrastructures and managing cloud-based solutions ensuring scalability and security.
+- **Security & Compliance**: Proficient in implementing rigorous security standards to meet compliance requirements.
 
 ### Tech Stack 🛠️
 
 - **Languages**: JavaScript, TypeScript, Solidity
 - **Frameworks & Libraries**: React, Vue, Next.js, Nuxt.js, NestJS, Express, AdonisJS, Truffle Suite, Web3
-- **Databases**: MySQL, PostgreSQL, MongoDB, CosmosDB, Redis, DynamoDB, Amazon Aurora, DynamoDB
+- **Databases**: MySQL, PostgreSQL, MongoDB, CosmosDB, Redis, DynamoDB, Amazon Aurora
 - **DevOps & Infrastructure**: Kubernetes, Terraform, Docker, RabbitMQ, Elasticsearch, Kafka
-- **Cloud Providers**: AWS, Digital Ocean, Azure (including CosmosDB, Static Website, MSAL, and more)
-- **Security** & Compliance: SOC 2, ISO 27001, Okta, LDAP
-- **Tools**: CI/CD pipelines, Darktrace
+- **Cloud Providers**: AWS, DigitalOcean, Azure (CosmosDB, Static Websites, MSAL)
+- **Security & Compliance**: SOC 2, ISO 27001, Okta, LDAP
+- **Tools & Practices**: CI/CD pipelines, Darktrace, Automation & Monitoring
 
-### Khaneland
-
-Khaneland is my company, where I specialize in bringing projects to life. Whether you need full-stack development, cloud solutions, or robust infrastructure, I’m here to make it happen. My focus is on scalable, secure, and high-performing systems that drive impactful results.
+Let’s collaborate and innovate together!
 
 ### Let's Connect! 🤝
 
