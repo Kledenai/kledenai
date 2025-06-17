@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=kledenai&color=blue)
 
-### Hi there! 👋 I'm Kledenai 🌱
+### Hi there! 👋🏻 I'm Kledenai 🌱
 
 ### About Me
 
@@ -25,7 +25,7 @@ I’m passionate about transforming innovative ideas into reality through techno
 
 Let’s collaborate and innovate together!
 
-### Let's Connect! 🤝
+### Let's Connect! 🤝🏻
 
 <div>
   <a href="https://www.linkedin.com/in/bruno-rocha" target="_blank">
